@@ -3,17 +3,17 @@
 <h2>Contexto</h2>
 La fundación Potenciar Solidario acompaña a mas de 500 organizaciones sociales a fortalecer su gestión a través de soluciones, para que puedan desempeñarse de forma eficiente y transparente, crecer sustentablemente y con foco social a través de diversos programas.
 El sguiente proyecto es el resultado de un curso intensivo de Data Analytics impartido por Guayerd e IBM.
-Durante 4 meses adiquirí conocimientos en: 
+Stack de tecnologías que se aplicaron en el proyecto: 
 <br>
 <li>Google Shets</li>
 <br>
-MySQL
+<li>MySQL</li>
 <br>
-Base de Datos Relacionales
+<li>Base de datos Relacional</li>
 <br>
-Looker Studio
+<li>Looker Studio</li>
 <br>
-Power BI
+<li>Power BI</li>
 
 <h2>Desafío y Objetivos</h2>
 La fundación necesita asistencia para analizar, gestionar y visualizar datos administrativos.
@@ -27,10 +27,23 @@ Sheets, y luego con la herramienta de visualización Looker Studio, utilizando G
 almacenar y gestionar los datos.
 
 <h2>Resultado final</h2>
-Con los datos en crudo en Google Shets, se hizo la limpieza de los datos y un pequeño dashboard en la misma herramienta sobre los Proveedores y Donantes que tiene la fundación. Se realizo una documentación con el paso a paso de éste proceso.
-Como segundo paso, se agregaron mas datos actualizados, por lo tanto se procedio nuevamente a realizar la limpieza y filtrado de datos. A su vez, procedo a hacer la normalizacion de la informacion y un diagrama Entidad-Relación. Se los conecto con la base de datos en MySQL, donde realice variadas consultas.
-Luego se realizo un dashboard en la herramienta de Looker Studio, para obtener un reporte interactivo y atractivo para los usuarios.
-Como último paso para tener mas opciones en relacion al dashboard, realice un pequeño reporte en Power BI.
+1. Procesamiento de Datos:
+  <li>Limpieza de datos en Google Sheets.</li>
+  <li>Creación de un pequeño dashboard sobre los proveedores y donantes de la fundación.</li>
+  <li>Documentación del paso a paso para futuras implementaciones.</li>
+
+2.Expansión y Normalización:
+  <li>Limpieza y filtrado de datos actualizados.</li>
+  <li>Normalización de la información.</li>
+  <li>Creación de un diagrama entidad-relación para estructurar la base de datos.</li>
+
+3.Base de Datos Relacional:
+<li>Conexión de los datos normalizados a una base de datos en MySQL.</li>
+<li>Ejecución de consultas para análisis detallados.</li>
+
+4.Visualización de Datos:
+<li>Desarrollo de un dashboard interactivo en Looker Studio.</li>
+<li>Creación de un reporte adicional en Power BI para ofrecer más opciones visuales a los usuarios.</li>
 
 Se adjunta la carpeta en Google Drive donde se encuentra todos los recursos para visualizar el proyecto ademas de las conclusiones obtenidas de todo el analisis de la fundación.
 
